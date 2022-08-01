@@ -2,11 +2,12 @@
 It Is A Simple Script That Allow You To Install/Uninstall Pterodactyl Panel, Install/Uninstall Pterodactyl Wings, Take Backup Of Pterodactyl Panel/Wings, Can Easily Do Swap Memory.
 ## How To Use It(Tested Only In Ubuntu It Might Not Work In Any Other Os)
 First Login Into Vps Run ```sudo su``` command.
+It Might Ask You For Vps Password Enter That.
 
 Than Run 
 
 ```bash
-sudo apt install curl
+apt install curl
 ```
 
 Than Just Run 
