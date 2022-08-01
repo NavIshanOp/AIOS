@@ -66,10 +66,10 @@ echo ""
 read -p "Enter Input: " input
 
 case $input in  
-    1) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/0.1/SCRIPTS/install.sh);;
-    2) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/0.1/SCRIPTS/uninstall.sh);;
-    3) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/0.1/SCRIPTS/install-dash.sh);;
-    4) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/0.1/SCRIPTS/nuker.sh);;
+    1) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/main/SCRIPTS/install.sh);;
+    2) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/main/SCRIPTS/uninstall.sh);;
+    3) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/main/SCRIPTS/install-dash.sh);;
+    4) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/main/SCRIPTS/nuker.sh);;
     5) bash <(curl -s https://raw.githubusercontent.com/NotRoyadma/ptero_database_repo_main/main/database.sh);;
     6) bash <(curl -s https://raw.githubusercontent.com/NotRoyadma/ptero_database_repo_main/main/swp.sh);;
     7) bash <(curl -s https://raw.githubusercontent.com/NotRoyadma/ptero_database_repo_main/main/everything_in_one/ptero_panel_nginx_mysql.sh);;
