@@ -32,11 +32,11 @@ ThankYou For Using The Script
 | Operating System | Version | nginx support      | PHP Version |
 | ---------------- | ------- | ------------------ | ----------- |
 | Ubuntu           | 14.04   | :red_circle:       |             |
-|                  | 16.04   | :red_circle: \*    |             |
+|                  | 16.04   | :red_circle:       |             |
 |                  | 18.04   | :white_check_mark: | 8.0         |
 |                  | 20.04   | :white_check_mark: | 8.0         |
 |                  | 22.04   | :white_check_mark: | 8.0         |
-| Debian           | 8       | :red_circle: \*    |             |
+| Debian           | 8       | :red_circle:       |             |
 |                  | 9       | :white_check_mark: | 8.0         |
 |                  | 10      | :white_check_mark: | 8.0         |
 |                  | 11      | :white_check_mark: | 8.0         |
@@ -49,11 +49,11 @@ ThankYou For Using The Script
 | Operating System | Version | Supported          |
 | ---------------- | ------- | ------------------ |
 | Ubuntu           | 14.04   | :red_circle:       |
-|                  | 16.04   | :red_circle: \     |
+|                  | 16.04   | :red_circle:       |
 |                  | 18.04   | :white_check_mark: |
 |                  | 20.04   | :white_check_mark: |
 |                  | 22.04   | :white_check_mark: |
-| Debian           | 8       | :red_circle: \     |
+| Debian           | 8       | :red_circle:       |
 |                  | 9       | :white_check_mark: |
 |                  | 10      | :white_check_mark: |
 |                  | 11      | :white_check_mark: |
