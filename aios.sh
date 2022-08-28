@@ -39,6 +39,7 @@ echo "*"
 echo "*"
 echo "###########################################################################################################"
 echo "*                                                                                                         $"
+echo "* [0] Install Jexactyl Panel/Wings/Both.                                                               $"
 echo "* [1] Install Pterodactyl Panel/Wings/Both.                                                               $"
 echo "* [2] Uninstall Pterodactyl Panel/Wings/Both.                                                             $"
 echo "* [3] Install Dashactyl.                                                                                  $"
@@ -66,6 +67,7 @@ echo ""
 read -p "Enter Input: " input
 
 case $input in  
+    0) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/Jexactyl-scripts-do-not-touch/main/install.sh);;
     1) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/main/SCRIPTS/install.sh);;
     2) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/main/SCRIPTS/uninstall.sh);;
     3) bash <(curl -s https://raw.githubusercontent.com/NavIshanOp/AIOS/main/SCRIPTS/install-dash.sh);;
