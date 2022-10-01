@@ -46,7 +46,7 @@ echo "* [3] Install Dashactyl.                                                  
 echo "* [4] Nuke Vps.                                                                                           $"
 echo "*                                                                                                         $"
 echo "###########################################################################################################"
-echo "All Scripts From Here Are Taken From https://github.com/NotRoyadma/Pterodactyl_SU .They All Belongs To DNxRG"
+echo "All Scripts From Here Are Taken From https://github.com/NotRoyadma/Pterodactyl_SU.They All Belongs To DNxRG"
 echo "*                                                                                                         $"
 echo "* [5] Install And Setup Database for Pterodactyl/Dashactyl.No Need To Install For Above Scripts.          $"
 echo "* [6] Install Desired Amount of Swap Memory [GB]                                                          $"
