@@ -1,6 +1,6 @@
 # AIOS-Aill In One Script To Start A Complete Hosting
 It Is A Simple Script That Allow You To Install/Uninstall Pterodactyl Panel, Install/Uninstall Pterodactyl Wings, Take Backup Of Pterodactyl Panel/Wings, Can Easily Do Swap Memory.
-## How To Use It(Tested Only In Ubuntu It Might Not Work In Any Other Os)
+## How To Use It
 First Login Into Vps Run ```sudo su``` command.
 It Might Ask You For Vps Password Enter That.
 
