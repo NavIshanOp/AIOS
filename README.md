@@ -65,8 +65,8 @@ ThankYou For Using The Script
 _Ubuntu 16 and Debian 8 no longer supported since Pterodactyl does not actively support it._
 
 ## Information
-
-Soon We Will Launch Our Discord Server And Docs For Help.
+Discord Server :- https://discord.gg/TVMu2CzTCF
+Soon We Will Launch Our Docs For Help.
 
 ThankYou For Your Support :)
 
