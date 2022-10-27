@@ -73,7 +73,7 @@ file_install() {
     echo "Starting File install."
     echo "-------------------------------------------------------"
     cd /var/www/
-    sudo git clone https://github.com/Votion-Development/Dashactyl.git
+    sudo git clone https://github.com/Votion-Development/Dashactyl-0.4.git
     cd dashactyl
     sudo npm install
     sudo npm install forever -g
